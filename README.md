@@ -1,7 +1,7 @@
 # Siddarth Puliyanda Portfolio
 Welcome to my personal Github portfolio! As a Data Science enthusiast with a focus on sports and online gaming, I have developed a range of programming projects that demonstrate my skills, knowledge, and passion in this field.
 
-This portfolio contains three of my programming project highlights, showcasing my ability to collect, clean, analyze, and visualize data to extract insights and solve real-world problems.
+This portfolio contains three of my programming project highlights, showcasing my ability to collect, clean, analyze, and visualize data to extract insights and build models that solve real-world problems.
 
 # [Project 1: 2023 NFL Touchdown Regression](https://github.com/siddp95/Fantasy-Football-2023/blob/main/2023%20TD%20Regression.ipynb)
 * Collected, cleaned, and analyzed 2022 NFL stats to determine the whether a player scored more or less touchdowns than expected during the season
@@ -17,6 +17,13 @@ This portfolio contains three of my programming project highlights, showcasing m
 * [Part 2: MVP Cleaning](https://github.com/siddp95/NBA/blob/main/NBA%20MVP%20ML/MVP%20Cleaning.ipynb)
   * Cleaned the data scraped from the previous part by filling in missing values, mapping team name classifications, and deleting extraneous columns
 * [Part 3: MVP Machine Learning](https://github.com/siddp95/NBA/blob/main/NBA%20MVP%20ML/MVP%20Machine%20Learning.ipynb)
-  * Constructed a machine learning model using Ridge Regression that calculates the percentage of MVP votes a player should expect to receive and ranks players from highest to lowest, and then utilized Random Forest Regression to improve upon the original model by analyzing predictors that are not commonly tracked NBA statistics (stats ratios, team played for, and position)
+  * Constructed a machine learning model using Ridge Regression that calculates the percentage of MVP votes a player should expect to receive, and then utilized Random Forest Regression to improve upon the original model by analyzing predictors that are not commonly tracked NBA statistics (stats ratios, team played for, and position)
   * Successfully predicted 4 out of 5 top MVP vote finishers for the 2023 season, and backtested how the model would perform over all the data back from 1995
   * Theorized how outside factors that are not included in the model can influence MVP voting results, such as recency bias, strength of team, and voter fatigue
+* Python libraries: BeautifulSoup, selenium, sklearn, pandas
+
+# [Project 3: Blackjack Simulation](https://github.com/siddp95/Projects/tree/main/Blackjack%20Simulation)
+* Built a Monte Carlo simulation to test the profitability of different Blackjack strategies by simulating 10,000 hands for every variation
+* Concluded the number of decks at a table has no significant effect on profit and that 16 is the most optimal stay value, although all strategies lead to negative profit when simulated 10,000 times
+* Debunked the effectiveness of the Martingale betting strategy over a long run, since Vegas imposes strict upper and lower table limits
+* Python libraries: scipy, pandas, matplotlib, numpy
