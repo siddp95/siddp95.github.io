@@ -11,7 +11,7 @@ This portfolio contains three of my programming project highlights, showcasing m
   * Cleaned the data scraped from the previous part by filling in missing values, mapping team name classifications, and deleting extraneous columns
 * [Part 3: MVP Machine Learning](https://github.com/siddp95/NBA/blob/main/NBA%20MVP%20ML/MVP%20Machine%20Learning.ipynb)
   * Constructed a machine learning model using Ridge Regression that calculates the percentage of MVP votes a player should expect to receive, and then utilized Random Forest Regression to improve upon the original model by analyzing predictors that are not commonly tracked NBA statistics (stats ratios, team played for, and position)
-  * Successfully predicted 4 out of 5 top MVP vote finishers for the 2023 season, and backtested how the model would perform over all the data back from 1995
+  * Successfully predicted 4 out of 5 top MVP vote finishers for the 2023 season, and backtested how the model would perform over all the data since the 1995 season
   * Theorized how outside factors that are not included in the model can influence MVP voting results, such as recency bias, strength of team, and voter fatigue
 * Python libraries: BeautifulSoup, selenium, sklearn, pandas
 
@@ -23,7 +23,7 @@ This portfolio contains three of my programming project highlights, showcasing m
 * Python libraries: pandas, numpy, seaborn, matplotlib
 
 ## [Project 3: Blackjack Simulation](https://github.com/siddp95/Projects/tree/main/Blackjack%20Simulation)
-* Built a Monte Carlo simulation to test the profitability of different Blackjack strategies by simulating 10,000 hands for every variation
-* Concluded the number of decks at a table has no significant effect on profit and that 16 is the most optimal stay value, although all strategies lead to negative profit when simulated 10,000 times
+* Built a Monte Carlo simulation to test the profitability of different Blackjack strategies by simulating 10,000 hands for every variation and analyzing the outputs
+* Concluded the number of decks at a Blackjack table has no significant effect on profit and that 16 is the most optimal stay value, although all strategies lead to negative profit when simulated 10,000 times
 * Debunked the effectiveness of the Martingale betting strategy over a long run, since Vegas imposes strict upper and lower table limits
 * Python libraries: scipy, pandas, matplotlib, numpy
