@@ -15,6 +15,8 @@ This portfolio contains three of my programming project highlights, showcasing m
   * Theorized how outside factors that are not included in the model can influence MVP voting results, such as recency bias, strength of team, and voter fatigue
 * Python libraries: BeautifulSoup, selenium, sklearn, pandas
 
+![](https://github.com/siddp95/siddp95.github.io/blob/main/images/Screen%20Shot%202023-06-14%20at%206.07.57%20PM.png)
+
 ## [Project 2: 2023 NFL Touchdown Regression](https://github.com/siddp95/Fantasy-Football-2023/blob/main/2023%20TD%20Regression.ipynb)
 * Collected, cleaned, and analyzed 2022 NFL stats to determine the whether a player scored more or less touchdowns than expected during the season
 * Recalculated the amount of fantasy points a player would have scored in 2022 based on the predicted amount of touchdowns
@@ -22,8 +24,12 @@ This portfolio contains three of my programming project highlights, showcasing m
 * Hypothesized how this information can be used to predict the amount of touchdowns scored by a player in the 2023 season
 * Python libraries: pandas, numpy, seaborn, matplotlib
 
+![](https://github.com/siddp95/siddp95.github.io/blob/main/images/Screen%20Shot%202023-06-14%20at%206.09.12%20PM.png)
+
 ## [Project 3: Blackjack Simulation](https://github.com/siddp95/Projects/tree/main/Blackjack%20Simulation)
 * Built a Monte Carlo simulation to test the profitability of different Blackjack strategies by simulating 10,000 hands for every variation and analyzing the outputs
 * Concluded the number of decks at a Blackjack table has no significant effect on profit and that 16 is the most optimal stay value, although all strategies lead to negative profit when simulated 10,000 times
 * Debunked the effectiveness of the Martingale betting strategy over a long run, since Vegas imposes strict upper and lower table limits
 * Python libraries: scipy, pandas, matplotlib, numpy
+
+![](https://github.com/siddp95/siddp95.github.io/blob/main/images/Screen%20Shot%202023-06-14%20at%206.10.34%20PM.png)
