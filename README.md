@@ -17,11 +17,11 @@ This portfolio contains three of my programming project highlights, showcasing m
 
 <img src="/images/Screen%20Shot%202023-06-14%20at%206.07.57%20PM.png" width="60%" height="60%">
 
-## [Project 2: 2023 NFL Touchdown Regression 🏈](https://github.com/siddp95/Fantasy-Football-2023/blob/main/2023%20TD%20Regression.ipynb)
-* Collected, cleaned, and analyzed 2022 NFL stats to determine the whether a player scored more or less touchdowns than expected during the season
-* Recalculated the amount of fantasy points a player would have scored in 2022 based on the predicted amount of touchdowns
+## [Project 2: 2024 NFL Touchdown Regression 🏈](https://github.com/siddp95/Fantasy-Football-2024/blob/main/2024%20TD%20Regression.ipynb)
+* Collected, cleaned, and analyzed 2023 NFL stats to determine the whether a player scored more or less touchdowns than expected during the season
+* Recalculated the amount of fantasy points a player would have scored in 2023 based on the predicted amount of touchdowns
 * Created residual plots that displayed the names of players who had the most and least amount of difference between predicted vs. actual 
-* Hypothesized how this information can be used to predict the amount of touchdowns scored by a player in the 2023 season
+* Hypothesized how this information can be used to predict the amount of touchdowns scored by a player in the 2024 season
 * Python libraries: pandas, numpy, seaborn, matplotlib
 
 <img src="/images/Screen%20Shot%202023-06-14%20at%206.09.12%20PM.png" width="67%" height="67%">
