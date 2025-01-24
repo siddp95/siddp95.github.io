@@ -1,5 +1,5 @@
 # **Siddarth Puliyanda Portfolio**
-Welcome to my personal Github portfolio! As a Data Science enthusiast with a focus on sports and online gaming, I have developed a range of programming projects that demonstrate my skills, knowledge, and passion in this field.
+Welcome to my personal Github portfolio! As a Data Analytics professional and enthusiast, I have developed a range of programming projects that demonstrate my skills, knowledge, and passion in this field.
 
 This portfolio contains three of my programming project highlights, showcasing my ability to collect, clean, analyze, and visualize data to extract insights and build models that solve real-world problems.
 
