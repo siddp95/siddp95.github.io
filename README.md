@@ -26,12 +26,12 @@ This portfolio highlights a few personal projects, showcasing my end-to-end skil
 
 <img src="/images/Screen%20Shot%202023-06-14%20at%206.09.12%20PM.png" width="67%" height="67%">
 
-## [Stock Analysis Dashboard 🏀](https://st-stock-analysis.streamlit.app/)
+## [Stock Analysis Dashboard 📈](https://st-stock-analysis.streamlit.app/)
 * Developed a Streamlit-powered analytics tool that consolidates real-time market data, technical indicators, and fundamental metrics into a single dashboard—reducing hours of manual research into a 10-minute nightly review for informed trading decisions
 * Engineered a Python data pipeline (pandas/yfinance) that automates timezone normalization, missing data handling, and batch updates—transforming raw API data into actionable insights for both short-term trades and long-term portfolio health checks
 * Built an LSTM neural network (TensorFlow/Keras) to predict stock prices with a $2.34 mean absolute error, paired with interactive visualizations (Plotly) to formulate trade setups using moving averages and valuation metrics
 * Python libraries: Streamlit, tensorflow, yfinance, pandas
-<img src="/images/stock_dashboard_pic.png" width="67%" height="67%">
+<img src="/images/stock_dashboard_pic.png" width="70%" height="70%">
 
 ## [Blackjack Simulation 🃏](https://github.com/siddp95/Projects/tree/main/Blackjack%20Simulation)
 * Built a Monte Carlo simulation to test the profitability of different Blackjack strategies by simulating 10,000 hands for every variation and analyzing the outputs
