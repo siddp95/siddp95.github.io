@@ -1,9 +1,9 @@
 # **Siddarth Puliyanda Portfolio**
-Welcome to my personal Github portfolio! As a Data Analytics professional and enthusiast, I have developed a range of programming projects that demonstrate my skills, knowledge, and passion in this field.
+Welcome to my GitHub portfolio! Through my past experience and education, I have developed a passion about working with organizations that want to make effective use of their data; from the first ideas around what you want to measure and how to capture data accurately, through data preparation, analysis and management, all the way to impactful presentation of insights. I can support each step of the process to enable your organisation in making evidence-driven decisions or share insights with new audiences.
 
-This portfolio contains three of my programming project highlights, showcasing my ability to collect, clean, analyze, and visualize data to extract insights and build models that solve real-world problems.
+This portfolio highlights a few personal projects, showcasing my end-to-end skills in data collection, cleaning, analysis, and visualization—as well as my ability to build models and communicate findings for data- driven decision-making. Each project reflects my passion for solving real-world problems with data, across diverse domains.
 
-## [Project 1: NBA MVP Machine Learning 🏀](https://github.com/siddp95/NBA/tree/main/NBA%20MVP%20ML)
+## [NBA MVP Machine Learning 🏀](https://github.com/siddp95/NBA/tree/main/NBA%20MVP%20ML)
 * Created a 3 part machine learning model that predicts the MVP winner and top 5 vote receivers for a given season, based on historical NBA player stats and team records
 * [Part 1: MVP Scraping](https://github.com/siddp95/NBA/blob/main/NBA%20MVP%20ML/MVP%20Scraping.ipynb)
   * Webscraped NBA player and team data from Basketball Reference, dating back to the 1995 season (year I was born)
@@ -17,7 +17,7 @@ This portfolio contains three of my programming project highlights, showcasing m
 
 <img src="/images/Screen%20Shot%202023-06-14%20at%206.07.57%20PM.png" width="60%" height="60%">
 
-## [Project 2: 2024 NFL Touchdown Regression 🏈](https://github.com/siddp95/Fantasy-Football-2024/blob/main/2024%20TD%20Regression.ipynb)
+## [2024 NFL Touchdown Regression 🏈](https://github.com/siddp95/Fantasy-Football-2024/blob/main/2024%20TD%20Regression.ipynb)
 * Collected, cleaned, and analyzed 2023 NFL stats to determine the whether a player scored more or less touchdowns than expected during the season
 * Recalculated the amount of fantasy points a player would have scored in 2023 based on the predicted amount of touchdowns
 * Created residual plots that displayed the names of players who had the most and least amount of difference between predicted vs. actual 
@@ -26,8 +26,14 @@ This portfolio contains three of my programming project highlights, showcasing m
 
 <img src="/images/Screen%20Shot%202023-06-14%20at%206.09.12%20PM.png" width="67%" height="67%">
 
+## [Stock Analysis Dashboard 🏀](https://st-stock-analysis.streamlit.app/)
+* Developed a Streamlit-powered analytics tool that consolidates real-time market data, technical indicators, and fundamental metrics into a single dashboard—reducing hours of manual research into a 10-minute nightly review for informed trading decisions
+* Engineered a Python data pipeline (pandas/yfinance) that automates timezone normalization, missing data handling, and batch updates—transforming raw API data into actionable insights for both short-term trades and long-term portfolio health checks
+* Built an LSTM neural network (TensorFlow/Keras) to predict stock prices with a $2.34 mean absolute error, paired with interactive visualizations (Plotly) to formulate trade setups using moving averages and valuation metrics
+* Python libraries: Streamlit, tensorflow, yfinance, pandas
+  
 
-## [Project 3: Blackjack Simulation 🃏](https://github.com/siddp95/Projects/tree/main/Blackjack%20Simulation)
+## [Blackjack Simulation 🃏](https://github.com/siddp95/Projects/tree/main/Blackjack%20Simulation)
 * Built a Monte Carlo simulation to test the profitability of different Blackjack strategies by simulating 10,000 hands for every variation and analyzing the outputs
 * Concluded the number of decks at a Blackjack table has no significant effect on profit and that 16 is the most optimal stay value, although all strategies lead to negative profit when simulated 10,000 times
 * Debunked the effectiveness of the Martingale betting strategy over a long run, since Vegas imposes strict upper and lower table limits
